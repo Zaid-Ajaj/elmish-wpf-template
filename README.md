@@ -1,5 +1,6 @@
-# Elm counter in WPF
-Pure F#/Xaml counter using Elmish.WPF and XAML type provider
+# Elmish template for WPF
+A simple counter example that is a starting point for building WPF apps using the Elmish model, clone and start building your app. 
+
 
 ```fs
 // Program.fs

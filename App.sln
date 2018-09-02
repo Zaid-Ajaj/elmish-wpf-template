@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28010.2016
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "App", "ElmCounter\App.fsproj", "{E9F22E5E-D932-4CA2-AFB9-1FDFEF18B794}"
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "App", "App\App.fsproj", "{E9F22E5E-D932-4CA2-AFB9-1FDFEF18B794}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
